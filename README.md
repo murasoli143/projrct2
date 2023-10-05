@@ -5,3 +5,5 @@ DASHBOARD LINK = https://public.tableau.com/views/project2naanmudhalvan1/Dashboa
 VIDEO LINK  =    https://youtu.be/sH8UG-yeNJY?si=DkyOQE09CH3Qm9It
 
 goodle drive link = https://drive.google.com/drive/folders/1tf6qkfx_FRgr5pJKJMqn5GVCegwzXKcX
+
+story link  =  https://public.tableau.com/views/p_murasolimaran/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
